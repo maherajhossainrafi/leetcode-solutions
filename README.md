@@ -311,10 +311,10 @@ Every problem is documented with the same structure (see [`template.md`](templat
 
 <p align="center">
   <img
-    alt="Easy: 0"
+    alt="Easy: 1"
     hspace="2"
     vspace="1"
-    src="https://img.shields.io/badge/Easy-0-737373?style=for-the-badge&labelColor=525252"
+    src="https://img.shields.io/badge/Easy-1-737373?style=for-the-badge&labelColor=525252"
   >
   <img
     alt="Medium: 0"
@@ -330,24 +330,24 @@ Every problem is documented with the same structure (see [`template.md`](templat
   >
   <picture><source
     media="(prefers-color-scheme: dark)"
-    srcset="https://img.shields.io/badge/Total_Solved-0-ffffff?style=for-the-badge&labelColor=525252"
+    srcset="https://img.shields.io/badge/Total_Solved-1-ffffff?style=for-the-badge&labelColor=525252"
   ><img
-    alt="Total Solved: 0"
+    alt="Total Solved: 1"
     hspace="2"
     vspace="1"
-    src="https://img.shields.io/badge/Total_Solved-0-000000?style=for-the-badge&labelColor=525252"
+    src="https://img.shields.io/badge/Total_Solved-1-000000?style=for-the-badge&labelColor=525252"
   ></picture>
 </p>
 
 <p align="center">
   <b>NeetCode 250</b><br>
-  <code>░░░░░░░░░░░░░░░░░░░░░░░░░ 0%</code><br>
-  <sub>0 / 250 solved</sub>
+  <code>░░░░░░░░░░░░░░░░░░░░░░░░░ 0.4%</code><br>
+  <sub>1 / 250 solved</sub>
 </p>
 
 ## Latest Solutions
 
-The newest solutions as of **YYYY-MM-DD**.
+The newest solutions as of **2026-10-06**.
 
 <table width="100%">
   <tr>
@@ -363,10 +363,10 @@ The newest solutions as of **YYYY-MM-DD**.
     <th align="left" width="40%">Solution</th>
   </tr>
   <tr>
-    <td>-</td>
-    <td>-</td>
-    <td align="center">-</td>
-    <td>-</td>
+    <td>2026-10-06</td>
+    <td><a href="https://leetcode.com/problems/concatenation-of-array/">1929. Concatenation of Array</a></td>
+    <td align="center">Easy</td>
+    <td><a href="01-arrays-and-hashing/1929-concatenation-of-array/1929.md">Write-up</a> · C++ <a href="01-arrays-and-hashing/1929-concatenation-of-array/1929.1.cpp">1</a>, <a href="01-arrays-and-hashing/1929-concatenation-of-array/1929.2.cpp">2</a>, <a href="01-arrays-and-hashing/1929-concatenation-of-array/1929.3.cpp">3</a></td>
   </tr>
 </table>
 
@@ -507,13 +507,13 @@ Solutions are grouped by topic and follow the **NeetCode 250** roadmap, a curate
     <th align="center" width="10%">Level</th>
     <th align="left" width="22%">Tags</th>
   </tr>
-  <tr>
-    <td align="center">-</td>
-    <td>-</td>
-    <td>-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td>-</td>
+    <tr>
+    <td align="center">1929</td>
+    <td><a href="https://leetcode.com/problems/concatenation-of-array/">Concatenation of Array</a></td>
+    <td><a href="01-arrays-and-hashing/1929-concatenation-of-array/1929.md">Write-up</a> · C++ <a href="01-arrays-and-hashing/1929-concatenation-of-array/1929.1.cpp">1</a>, <a href="01-arrays-and-hashing/1929-concatenation-of-array/1929.2.cpp">2</a>, <a href="01-arrays-and-hashing/1929-concatenation-of-array/1929.3.cpp">3</a></td>
+    <td align="center">O(n) / O(n)</td>
+    <td align="center">Easy</td>
+    <td>Array, Simulation</td>
   </tr>
 </table>
 
