@@ -244,47 +244,66 @@ Every problem is documented with the same structure (see [`template.md`](templat
 
 <p align="center">
   <img
-    alt="1. Problem Summary: The problem, restated briefly"
+    alt="1. Problem Title: The problem name and number, with a link to LeetCode"
     hspace="2"
     vspace="1"
-    src="https://img.shields.io/badge/1-Problem_Summary-737373?style=flat-square&labelColor=525252"
+    src="https://img.shields.io/badge/1-Problem_Title-737373?style=flat-square&labelColor=525252"
   >
   <img
-    alt="2. Intuition: The key insight behind the solution"
+    alt="2. Problem Summary: The problem, restated briefly"
     hspace="2"
     vspace="1"
-    src="https://img.shields.io/badge/2-Intuition-737373?style=flat-square&labelColor=525252"
+    src="https://img.shields.io/badge/2-Problem_Summary-737373?style=flat-square&labelColor=525252"
   >
   <img
-    alt="3. Approach: The method, step by step, with alternatives where they exist"
+    alt="3. Intuition: The key insight behind the solution"
     hspace="2"
     vspace="1"
-    src="https://img.shields.io/badge/3-Approach-737373?style=flat-square&labelColor=525252"
+    src="https://img.shields.io/badge/3-Intuition-737373?style=flat-square&labelColor=525252"
   >
   <img
-    alt="4. Complexity Analysis: Time complexity and space complexity"
+    alt="4. Approaches: The methods, step by step, with alternatives where they exist"
     hspace="2"
     vspace="1"
-    src="https://img.shields.io/badge/4-Complexity_Analysis-737373?style=flat-square&labelColor=525252"
+    src="https://img.shields.io/badge/4-Approaches-737373?style=flat-square&labelColor=525252"
   >
   <br>
   <img
-    alt="5. Edge Cases: Inputs that can break a solution"
+    alt="5. Complexity Analysis: Time complexity and space complexity"
     hspace="2"
     vspace="1"
-    src="https://img.shields.io/badge/5-Edge_Cases-737373?style=flat-square&labelColor=525252"
+    src="https://img.shields.io/badge/5-Complexity_Analysis-737373?style=flat-square&labelColor=525252"
   >
   <img
-    alt="6. Implementation: Clear and readable code"
+    alt="6. Edge Cases: Inputs that can break a solution"
     hspace="2"
     vspace="1"
-    src="https://img.shields.io/badge/6-Implementation-737373?style=flat-square&labelColor=525252"
+    src="https://img.shields.io/badge/6-Edge_Cases-737373?style=flat-square&labelColor=525252"
   >
   <img
-    alt="7. Improvements &amp; Variations: Optimizations and related problems"
+    alt="7. Implementations: Clear and readable code"
     hspace="2"
     vspace="1"
-    src="https://img.shields.io/badge/7-Improvements_%26_Variations-737373?style=flat-square&labelColor=525252"
+    src="https://img.shields.io/badge/7-Implementations-737373?style=flat-square&labelColor=525252"
+  >
+  <br>
+  <img
+    alt="8. Improvements: Optimizations and ways to improve the solution"
+    hspace="2"
+    vspace="1"
+    src="https://img.shields.io/badge/8-Improvements-737373?style=flat-square&labelColor=525252"
+  >
+  <img
+    alt="9. Mistakes: Errors made along the way and how to avoid them"
+    hspace="2"
+    vspace="1"
+    src="https://img.shields.io/badge/9-Mistakes-737373?style=flat-square&labelColor=525252"
+  >
+  <img
+    alt="10. Learnings: Key takeaways and patterns to remember"
+    hspace="2"
+    vspace="1"
+    src="https://img.shields.io/badge/10-Learnings-737373?style=flat-square&labelColor=525252"
   >
 </p>
 
