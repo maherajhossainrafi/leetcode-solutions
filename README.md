@@ -311,10 +311,10 @@ Every problem is documented with the same structure (see [`template.md`](templat
 
 <p align="center">
   <img
-    alt="Easy: 1"
+    alt="Easy: 2"
     hspace="2"
     vspace="1"
-    src="https://img.shields.io/badge/Easy-1-737373?style=for-the-badge&labelColor=525252"
+    src="https://img.shields.io/badge/Easy-2-737373?style=for-the-badge&labelColor=525252"
   >
   <img
     alt="Medium: 0"
@@ -330,24 +330,24 @@ Every problem is documented with the same structure (see [`template.md`](templat
   >
   <picture><source
     media="(prefers-color-scheme: dark)"
-    srcset="https://img.shields.io/badge/Total_Solved-1-ffffff?style=for-the-badge&labelColor=525252"
+    srcset="https://img.shields.io/badge/Total_Solved-2-ffffff?style=for-the-badge&labelColor=525252"
   ><img
-    alt="Total Solved: 1"
+    alt="Total Solved: 2"
     hspace="2"
     vspace="1"
-    src="https://img.shields.io/badge/Total_Solved-1-000000?style=for-the-badge&labelColor=525252"
+    src="https://img.shields.io/badge/Total_Solved-2-000000?style=for-the-badge&labelColor=525252"
   ></picture>
 </p>
 
 <p align="center">
   <b>NeetCode 250</b><br>
-  <code>░░░░░░░░░░░░░░░░░░░░░░░░░ 0.4%</code><br>
-  <sub>1 / 250 solved</sub>
+  <code>░░░░░░░░░░░░░░░░░░░░░░░░░ 0.8%</code><br>
+  <sub>2 / 250 solved</sub>
 </p>
 
 ## Latest Solutions
 
-The newest solutions as of **2026-10-06**.
+The newest solutions as of **2026-10-09**.
 
 <table width="100%">
   <tr>
@@ -361,6 +361,12 @@ The newest solutions as of **2026-10-06**.
     ></th>
     <th align="center" width="10%">Level</th>
     <th align="left" width="40%">Solution</th>
+  </tr>
+  <tr>
+    <td>2026-10-09</td>
+    <td><a href="https://leetcode.com/problems/contains-duplicate/">217. Contains Duplicate</a></td>
+    <td align="center">Easy</td>
+    <td><a href="01-arrays-and-hashing/217-contains-duplicate/217.md">Write-up</a> · C++ <a href="01-arrays-and-hashing/217-contains-duplicate/217.1.cpp">1</a>, <a href="01-arrays-and-hashing/217-contains-duplicate/217.2.cpp">2</a>, <a href="01-arrays-and-hashing/217-contains-duplicate/217.3.cpp">3</a>, <a href="01-arrays-and-hashing/217-contains-duplicate/217.4.cpp">4</a></td>
   </tr>
   <tr>
     <td>2026-10-06</td>
@@ -514,6 +520,14 @@ Solutions are grouped by topic and follow the **NeetCode 250** roadmap, a curate
     <td align="center">O(n) / O(n)</td>
     <td align="center">Easy</td>
     <td>Array, Simulation</td>
+  </tr>
+    <tr>
+    <td align="center">217</td>
+    <td><a href="https://leetcode.com/problems/contains-duplicate/">Contains Duplicate</a></td>
+    <td><a href="01-arrays-and-hashing/217-contains-duplicate/217.md">Write-up</a> · C++ <a href="01-arrays-and-hashing/217-contains-duplicate/217.1.cpp">1</a>, <a href="01-arrays-and-hashing/217-contains-duplicate/217.2.cpp">2</a>, <a href="01-arrays-and-hashing/217-contains-duplicate/217.3.cpp">3</a>, <a href="01-arrays-and-hashing/217-contains-duplicate/217.4.cpp">4</a></td>
+    <td align="center">O(n) / O(n)</td>
+    <td align="center">Easy</td>
+    <td>Array, Hash Table, Sorting</td>
   </tr>
 </table>
 
